@@ -30,4 +30,8 @@ public class FirstBadVersion {
 		}
 		return goodVersion;
 	}
+
+	private static boolean isBadVersion(int version) {
+		return true;
+	}
 }
